@@ -26,4 +26,4 @@ Ao selecionar o menu de administrador é necessária a introdução de uma passw
 
 ## Diagrama UML
 
-![alt text](https://drive.google.com/file/d/1YNAOnuYQgzAAYRKDf_s-ryVxLTVhb0TA/view?usp=sharing "UML")
+![alt text](https://i.imgur.com/u1bk6WC.png "UML")
