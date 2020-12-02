@@ -10,19 +10,19 @@ Ao selecionar o menu de utente é apresentada uma lista dos utentes registados e
 Ao selecionar o menu de administrador é necessária a introdução de uma password, de forma a que só quem a sabe tenha acesso a esse menu, estando está definida com o valor “12345”. Após ser introduzida a password correta é apresentado o menu de administrador que permite registar e consultar médicos e utentes, listar as consultas e avançar a data do calendário.
 
 ## Este centro médico permite
--Registar novos médicos e utentes, atribuindo aleatoriamente um número único;
--Listar todos os utentes registados, estando ordenados, ou não, de forma ascendente ou descendente pelo valor que gastaram;
--Listar todos os médicos registados, estando ordenados pela classificação;
--Listar todas as consultas do centro médico;
--Listar os utentes que determinado médico consultará num determinado dia;
--Avançar um dia de cada vez do calendário;
--Realizar novas consultas;
--Atribuir uma avaliação a um médico;
--Fazer pagamentos por parte dos utentes;
--Imprimir o valor total que o centro médico recebeu;
--Imprimir o número total de consultas realizadas no centro médico;
--Sair da aplicação;
--Inserir informações do centro médico através do teclado ou através de ficheiros de texto, de forma automática;
+- Registar novos médicos e utentes, atribuindo aleatoriamente um número único;
+- Listar todos os utentes registados, estando ordenados, ou não, de forma ascendente ou descendente pelo valor que gastaram;
+- Listar todos os médicos registados, estando ordenados pela classificação;
+- Listar todas as consultas do centro médico;
+- Listar os utentes que determinado médico consultará num determinado dia;
+- Avançar um dia de cada vez do calendário;
+- Realizar novas consultas;
+- Atribuir uma avaliação a um médico;
+- Fazer pagamentos por parte dos utentes;
+- Imprimir o valor total que o centro médico recebeu;
+- Imprimir o número total de consultas realizadas no centro médico;
+- Sair da aplicação;
+- Inserir informações do centro médico através do teclado ou através de ficheiros de texto, de forma automática;
 
 ## Diagrama UML
 
